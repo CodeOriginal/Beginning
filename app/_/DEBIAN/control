@@ -1,0 +1,10 @@
+Package: com.codeoriginal.App
+Name: App
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: CodeOriginal
+Author: CodeOriginal
+Section: Utilities
+Version: 0.0.1-1
+Installed-Size: 56
