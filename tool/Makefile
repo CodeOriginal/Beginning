@@ -1,3 +1,4 @@
+TARGET := iphone:clang:8.1
 include theos/makefiles/common.mk
 
 TOOL_NAME = Tool
