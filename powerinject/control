@@ -1,0 +1,11 @@
+Package: al.codeorigin.powerinject
+Name: PowerInject
+Description: Steal your power button!
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Homepage: codeoriginal.github.com
+Depiction: codeoriginal.github.com/al.codeorigin.powerinject
+Maintainer: CodeOriginal
+Author: CodeOriginal
